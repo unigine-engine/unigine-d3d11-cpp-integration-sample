@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.22.0.0">
+	<guid>37658e1e72ccc8b9f5a0ec28ca367b026c423cba</guid>
+	<type>file</type>
+	<hash>5c25219dafe10d11ab3223b7cffe8825e6cf9941431a452fc365e82641442a14</hash>
+	<runtimes>
+		<runtime id="37658e1e72ccc8b9f5a0ec28ca367b026c423cba" name="ProcessTextureWrite.hlsl" link="0"/>
+	</runtimes>
+</asset>

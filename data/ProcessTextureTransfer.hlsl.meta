@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.22.0.0">
+	<guid>4d20e457254c528cb5385e9579a49e1b0e2824d1</guid>
+	<type>file</type>
+	<hash>73bf31e9154a13f85c5c5813327a88d3b53ac011b94802c7b064d295de999246</hash>
+	<runtimes>
+		<runtime id="4d20e457254c528cb5385e9579a49e1b0e2824d1" name="ProcessTextureTransfer.hlsl" link="0"/>
+	</runtimes>
+</asset>

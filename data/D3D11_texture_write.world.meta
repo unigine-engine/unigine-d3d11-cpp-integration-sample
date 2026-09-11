@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.22.0.0">
+	<guid>818b7b61644501d9f72e33cf440453e5e1c3932b</guid>
+	<type>world</type>
+	<hash>a1e28505b4384557471369714aa8b241cab985e39705be27e1d8619e896d7ea8</hash>
+	<runtimes>
+		<runtime id="818b7b61644501d9f72e33cf440453e5e1c3932b" name="D3D11_texture_write.world" link="0"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="physics_settings_path"/>
+		<parameter type="string" name="render_settings_path"/>
+		<parameter type="string" name="script_name"/>
+		<parameter type="string" name="sound_settings_path"/>
+		<parameter type="string" name="viewports_settings"/>
+	</parameters>
+</asset>

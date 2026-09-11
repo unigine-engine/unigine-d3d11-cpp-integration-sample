@@ -1,0 +1,12 @@
+{
+	"11f50c801a85df599219d59a3fe4af858b8d17fc": "cbox.mesh",
+	"1c3628096b2f48fa7320753743d02f2e3a3ef013": "configs/default.global",
+	"37658e1e72ccc8b9f5a0ec28ca367b026c423cba": "ProcessTextureWrite.hlsl",
+	"4d20e457254c528cb5385e9579a49e1b0e2824d1": "ProcessTextureTransfer.hlsl",
+	"5dc646bc5603ca6c193df1b6529f464ba03a6ff8": "configs/default.config",
+	"7d8174886e47ee914cc55de252a04f5b856b5684": "configs/editor.boot",
+	"818b7b61644501d9f72e33cf440453e5e1c3932b": "D3D11_texture_write.world",
+	"db4564fab2107d21c40609e46f02e051b723b656": "configs/default.user",
+	"dd1362639039c984ed34474103578789924b79bd": "configs/default.controls",
+	"f1b54db251a14d338a96585cacee08bbff338e8e": "D3D11_texture_transfer.world"
+}

@@ -1,0 +1,65 @@
+{
+    "edit_settings": {
+        "arguments": "",
+        "debug": false,
+        "microprofile_enabled": false
+    },
+    "id": "1b730e75-1747-4786-894a-62581fe2c750",
+    "project_settings": {
+        "addons": [],
+        "ai_docs": false,
+        "api": "cmakecpp",
+        "assets": [],
+        "build_tool": false,
+        "component_system": false,
+        "default_world": "D3D11_texture_transfer",
+        "demo": "",
+        "editor_plugin": false,
+        "engine_binaries": "development",
+        "engine_plugin": false,
+        "engine_plugin_name": "",
+        "engine_plugin_vendor": "",
+        "launcher_console": true,
+        "launcher_gui": false,
+        "name": "unigine-d3d11-cpp-integration-sample_lin_academic_float",
+        "plugin_name": "",
+        "plugin_vendor": "",
+        "plugins": [
+            "UnigineFbxImporter",
+            "UnigineCadImporter",
+            "UnigineGLTFImporter",
+            "UnigineFbxExporter",
+            "UnigineGeodetics",
+            "UnigineUsdExchanger"
+        ],
+        "precision": 0,
+        "project_template": [
+            "empty"
+        ],
+        "rt_generator": false,
+        "samples_pack": "",
+        "starting_world": "default",
+        "sw_distributed": false,
+        "template_id": "template_empty_cpp2.21.0_1cross",
+        "template_name": "empty_cpp",
+        "template_version": "2.21.0_1"
+    },
+    "run_settings": {
+        "app_name": "",
+        "application": "default",
+        "arguments": "",
+        "debug": false,
+        "microprofile_enabled": false,
+        "rpath": []
+    },
+    "sdk": {
+        "edition": "academic",
+        "internal_version": 58,
+        "key": "tier4_bin_linux-2.21",
+        "name": "UNIGINE 2 Academic Research",
+        "path": "",
+        "type": "bin",
+        "version": "2.21"
+    },
+    "version": "2"
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.22.0.0">
+	<guid>f1b54db251a14d338a96585cacee08bbff338e8e</guid>
+	<type>world</type>
+	<hash>7738300929c747bcd560db905e9306863791303310bf5b93722acce3bbadcbdc</hash>
+	<runtimes>
+		<runtime id="f1b54db251a14d338a96585cacee08bbff338e8e" name="D3D11_texture_transfer.world" link="0"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="physics_settings_path"/>
+		<parameter type="string" name="render_settings_path"/>
+		<parameter type="string" name="script_name"/>
+		<parameter type="string" name="sound_settings_path"/>
+		<parameter type="string" name="viewports_settings"/>
+	</parameters>
+</asset>
