@@ -4,7 +4,7 @@
         "debug": false,
         "microprofile_enabled": false
     },
-    "id": "9e39f8d5-518e-4bd7-98e0-e962902e94c9",
+    "id": "ba748563-b863-4b76-bc2f-11ed99aad32f",
     "project_settings": {
         "addons": [],
         "ai_docs": false,
@@ -21,7 +21,7 @@
         "engine_plugin_vendor": "",
         "launcher_console": true,
         "launcher_gui": false,
-        "name": "unigine-d3d11-cpp-integration-sample_win_entertainment_float",
+        "name": "unigine-d3d11-cpp-integration-sample",
         "plugin_name": "",
         "plugin_vendor": "",
         "plugins": [
@@ -40,9 +40,9 @@
         "samples_pack": "",
         "starting_world": "default",
         "sw_distributed": false,
-        "template_id": "template_empty_cpp2.22.0_1cross",
+        "template_id": "template_empty_cpp2.22.0_2cross",
         "template_name": "empty_cpp",
-        "template_version": "2.22.0_1"
+        "template_version": "2.22.0_2"
     },
     "run_settings": {
         "app_name": "",
