@@ -4,7 +4,7 @@
         "debug": false,
         "microprofile_enabled": false
     },
-    "id": "9556e9dc-ba14-47a2-a3b3-395e7b89501a",
+    "id": "f8719e69-9578-4067-82d8-223bca8f05c0",
     "project_settings": {
         "addons": [],
         "ai_docs": false,
@@ -40,9 +40,9 @@
         "samples_pack": "",
         "starting_world": "default",
         "sw_distributed": false,
-        "template_id": "template_empty_cpp2.22.0_2cross",
+        "template_id": "template_empty_cpp2.22.0_3cross",
         "template_name": "empty_cpp",
-        "template_version": "2.22.0_2"
+        "template_version": "2.22.0_3"
     },
     "run_settings": {
         "app_name": "",
